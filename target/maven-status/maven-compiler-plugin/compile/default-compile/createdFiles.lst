@@ -1,0 +1,10 @@
+br/com/bs/listadetarefas/erros/ExceptionHandlerController.class
+br/com/bs/listadetarefas/filter/FilterTaskAuth.class
+br/com/bs/listadetarefas/task/TaskModel.class
+br/com/bs/listadetarefas/user/UserModel.class
+br/com/bs/listadetarefas/ListaDeTarefasApplication.class
+br/com/bs/listadetarefas/task/TaskController.class
+br/com/bs/listadetarefas/utils/Utils.class
+br/com/bs/listadetarefas/user/IUserRespository.class
+br/com/bs/listadetarefas/user/UserController.class
+br/com/bs/listadetarefas/task/ITaskRepository.class

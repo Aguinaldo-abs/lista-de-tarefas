@@ -1,0 +1,10 @@
+/home/aguinaldo/Documents/PROJECTS/java/rocketseat-spring/lista-de-tarefas/src/main/java/br/com/bs/listadetarefas/filter/FilterTaskAuth.java
+/home/aguinaldo/Documents/PROJECTS/java/rocketseat-spring/lista-de-tarefas/src/main/java/br/com/bs/listadetarefas/task/TaskModel.java
+/home/aguinaldo/Documents/PROJECTS/java/rocketseat-spring/lista-de-tarefas/src/main/java/br/com/bs/listadetarefas/user/UserController.java
+/home/aguinaldo/Documents/PROJECTS/java/rocketseat-spring/lista-de-tarefas/src/main/java/br/com/bs/listadetarefas/task/ITaskRepository.java
+/home/aguinaldo/Documents/PROJECTS/java/rocketseat-spring/lista-de-tarefas/src/main/java/br/com/bs/listadetarefas/utils/Utils.java
+/home/aguinaldo/Documents/PROJECTS/java/rocketseat-spring/lista-de-tarefas/src/main/java/br/com/bs/listadetarefas/user/UserModel.java
+/home/aguinaldo/Documents/PROJECTS/java/rocketseat-spring/lista-de-tarefas/src/main/java/br/com/bs/listadetarefas/erros/ExceptionHandlerController.java
+/home/aguinaldo/Documents/PROJECTS/java/rocketseat-spring/lista-de-tarefas/src/main/java/br/com/bs/listadetarefas/ListaDeTarefasApplication.java
+/home/aguinaldo/Documents/PROJECTS/java/rocketseat-spring/lista-de-tarefas/src/main/java/br/com/bs/listadetarefas/user/IUserRespository.java
+/home/aguinaldo/Documents/PROJECTS/java/rocketseat-spring/lista-de-tarefas/src/main/java/br/com/bs/listadetarefas/task/TaskController.java
