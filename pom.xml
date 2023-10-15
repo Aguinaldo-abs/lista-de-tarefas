@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>br.com.bs</groupId>
 	<artifactId>lista-de-tarefas</artifactId>
-	<version>lista-de-tarefas-1.0.0.jar</version>
+	<version>lista-de-tarefas-1.0.0</version>
 	<name>lista-de-tarefas</name>
 	<description>Lista de tarefefas, projeto exemplo do curso spring3 rocktseat</description>
 	<properties>
